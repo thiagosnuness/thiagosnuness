@@ -26,10 +26,22 @@ I'm a experienced technology professional specializing in implementing and manag
   <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"> 
 </div>
   
-  ##
+  ## 📚 Contact:
  
 <div> 
   <a href = "mailto:thiagocristiano@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagonuness" target="_blank"><img height="30" width="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+  ## 📊 GitHub Stats:
+<div>
+  
+
+![](https://github-readme-stats.vercel.app/api?username=thiagosnuness&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thiagosnuness&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosnuness&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=thiagosnuness&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
