@@ -26,7 +26,7 @@ I'm a experienced technology professional specializing in implementing and manag
   <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"> 
 </div>
   
-  ## 📚 Contact:
+  ## 📚 Contacts:
  
 <div> 
   <a href = "mailto:thiagocristiano@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
