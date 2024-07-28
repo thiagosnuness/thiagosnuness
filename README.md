@@ -8,7 +8,6 @@ I'm a experienced technology professional specializing in implementing and manag
 
 - 🌍 I live in Brazil, but I'm open to opportunities abroad.
 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
@@ -34,14 +33,11 @@ I'm a experienced technology professional specializing in implementing and manag
 </div>
 
   ## 📊 GitHub Stats:
-<div>
   
-
 ![](https://github-readme-stats.vercel.app/api?username=thiagosnuness&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thiagosnuness&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosnuness&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=thiagosnuness&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
